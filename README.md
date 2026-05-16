@@ -18,3 +18,12 @@ Data adapted from VGChartz (public domain estimates) containing the top 20 best-
 - Loops and conditional statements
 - String methods and f-strings
 - Functions with default parameters
+
+## File naming reference
+**Task**	**Filename**	          **Description**
+Task 1	  task1_variables.py	    Variables and Arithmetic
+Task 2	  task2_strings.py	      String Processing
+Task 3	  task3_lists.py	        Lists and Tuples
+Task 4	  task4_loops.py	        Loops and Conditionals
+Task 5	  task5_dictionaries.py	  Dictionaries
+Task 6	  task6_functions.py	    Functions
