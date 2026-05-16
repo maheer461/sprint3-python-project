@@ -1,4 +1,3 @@
-Sprint 3 Python Foundations — Video Game Sales Analysis
 readme_text = """
 # Video Game Sales Analysis
 
