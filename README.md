@@ -1,4 +1,3 @@
-readme_text = """
 # Video Game Sales Analysis
 
 This project analyzes best-selling video game sales data using Python fundamentals including variables, lists, loops, conditionals, dictionaries, and functions.
@@ -19,6 +18,3 @@ Data adapted from VGChartz (public domain estimates) containing the top 20 best-
 - Loops and conditional statements
 - String methods and f-strings
 - Functions with default parameters
-"""
-
-print(readme_text)
